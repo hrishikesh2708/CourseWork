@@ -1,4 +1,5 @@
 myData = [
+[19.1334302,72.9132679, 'Main Gate Rd, IIT Area, Powai, Mumbai, Maharashtra 400076, India'],
 [50.06688579999999,19.9136192, 'aleja Adama Mickiewicza 30, 30-059 Kraków, Poland'],
 [52.2394019,21.0150792, 'Krakowskie Przedmieście 5, 00-068 Warszawa, Poland'],
 [30.018923,31.499674, 'AUC Avenue، Road، First New Cairo, Cairo Governorate 11835, Egypt'],
@@ -186,7 +187,7 @@ myData = [
 [-34.5998875,-58.37306949999999, 'Viamonte 430, C1053 CABA, Argentina'],
 [38.9934998,-3.9254365, 'Rectorado UCLM, Calle Altagracia, 50, 13001 Ciudad Real, Cdad. Real, Spain'],
 [4.601458099999999,-74.0661334, 'Cra. 1 #18a 12, Bogotá, Cundinamarca, Colombia'],
-[19.0303925,-98.1903494, 'Universidad de Oriente, Avenida 21 Oriente 1816, Zona Sin Asignación de Nombre de Col 39, Azcarate, 72501 Puebla, Pue., Mexico'],
+[32.5005347,-116.9479427, 'Blvrd Bernardo OHiggins 15296, Los Alamos, 22110 Tijuana, B.C., Mexico'],
 [14.587349,-90.55341399999999, '11 Av, Cdad. de Guatemala 01012, Guatemala'],
 [41.6569271,-4.7140547, 'C/Plaza de Santa Cruz, 8, 47002 Valladolid, Spain'],
 [4.864758,-74.05091800000001, 'Chía, Cundinamarca, Colombia'],
@@ -197,9 +198,5 @@ myData = [
 [-22.8617077,-43.2234035, 'Av. Pedro Calmon, 550 - Cidade Universitária da Universidade Federal do Rio de Janeiro, Rio de Janeiro - RJ, 21941-901, Brazil'],
 [38.7368192,-9.138705, 'Av. Rovisco Pais 1, 1049-001 Lisboa, Portugal'],
 [-23.5613991,-46.7307891, 'Butanta, São Paulo - State of São Paulo, Brazil'],
-[41.5607319,-8.3962368, 'R. da Universidade, 4710-057 Braga, Portugal'],
-[-7.7713847,110.3774998, 'Bulaksumur, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281, Indonesia'],
-[19.1334302,72.9132679, 'Main Gate Rd, IIT Area, Powai, Mumbai, Maharashtra 400076, India'],
-[39.4807985,-0.3406299, 'Camí de Vera, s/n, 46022 València, Valencia, Spain'],
-[50.66968749999999,4.6155909, 'Place de lUniversité 1, 1348 Ottignies-Louvain-la-Neuve, Belgium']
+[41.5607319,-8.3962368, 'R. da Universidade, 4710-057 Braga, Portugal']
 ];
